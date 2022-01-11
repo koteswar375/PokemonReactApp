@@ -1,7 +1,7 @@
 # Pokemon
 
-The project makes use of Pokemon APIs and is a starter POC for me to learn React.
-![logo](https://raw.githubusercontent.com/koteswar375/Spacestagram/main/src/Spacestagram.jpg)
+The project is a starter POC for me to learn React.
+![logo](https://raw.githubusercontent.com/koteswar375/PokemonReactApp/master/logo.jpg)
 
 The site is hosted at https://koteswar375.github.io/Spacestagram/
 
